@@ -1,0 +1,10 @@
+.item {
+  border: 1px solid black;
+  text-align: center;
+}
+
+.boom {
+  background: red;
+  text-align: center;
+  border: 1px solid black;
+}
